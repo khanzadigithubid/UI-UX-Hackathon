@@ -109,8 +109,8 @@ export const HomeWhyUs = () => {
             <li className="text-center">
               <div className="bg-orange-400 p-5 mb-2 w-20 h-20 rounded-lg shadow-md flex items-center justify-center">
                 <Image
-                  src="/assets/Wine.png"
-                  alt="Wine"
+                  src="/assets/wine.png"
+                  alt="wine"
                   width={50}
                   height={50}
                   layout="intrinsic"
@@ -122,8 +122,8 @@ export const HomeWhyUs = () => {
             <li className="text-center">
               <div className="bg-orange-400 p-5 mb-2 w-20 h-20 rounded-lg shadow-md flex items-center justify-center">
                 <Image
-                  src="/assets/coffee.svg"
-                  alt="Cookie"
+                  src="/assets/cookie.png"
+                  alt="cookie"
                   width={50}
                   height={50}
                   layout="intrinsic"
