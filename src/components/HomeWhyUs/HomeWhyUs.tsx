@@ -110,7 +110,7 @@ export const HomeWhyUs = () => {
               <div className="bg-orange-400 p-5 mb-2 w-20 h-20 rounded-lg shadow-md flex items-center justify-center">
                 <Image
                   src="/assets/wine.png"
-                  alt="wine"
+                  alt="Wine"
                   width={50}
                   height={50}
                   layout="intrinsic"
@@ -123,7 +123,7 @@ export const HomeWhyUs = () => {
               <div className="bg-orange-400 p-5 mb-2 w-20 h-20 rounded-lg shadow-md flex items-center justify-center">
                 <Image
                   src="/assets/cookie.png"
-                  alt="cookie"
+                  alt="Cookie"
                   width={50}
                   height={50}
                   layout="intrinsic"
